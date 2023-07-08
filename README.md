@@ -33,7 +33,7 @@ Time spent: 1 hours spent in total.
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://drive.google.com/file/d/179aOEHbESvL0J7t72xdV31a9ZkzSPrep/view?usp=sharing' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/N4Iaqs1.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap for macOS
